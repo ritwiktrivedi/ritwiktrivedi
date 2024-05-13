@@ -3,7 +3,7 @@ I am Ritwik Trivedi.
 
 - 🔭 I’m currently working on a system to make personal knowledge bases more efficient.
 - 🌱 I’m currently learning about Machine Learning and Programming at IIT Madras.
-- 📫 You can reach me via https://www.linkedin.com/in/ritwiktr/
+- 📫 You can reach out to me on https://www.linkedin.com/in/ritwiktr/
 <!--
 **ritwiktrivedi/ritwiktrivedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
