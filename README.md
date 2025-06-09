@@ -2,7 +2,7 @@
 I am Ritwik Trivedi, a passionate CSE student from India.
 
 - 🔭 I’m currently working on a system to make personal knowledge bases more efficient.
-- ⚡ I have completed my MBA from IRMA, Institute of Rural Management, Anand.
+- ⚡ I have completed my MBA from IRMA, Anand.
 - 🌱 I’m currently learning about Machine Learning and Programming at IIT Madras.
 - 📫 You can reach out to me on https://www.linkedin.com/in/ritwiktr/
 
