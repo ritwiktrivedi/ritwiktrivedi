@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Ritwik Trivedi, a passionate CSE student from India.
+I am Ritwik Trivedi, a passionate engineer from India.
 
 - 🔭 I’m currently working on a system to make personal knowledge bases more efficient.
 - ⚡ I have completed my MBA from IRMA, Anand.
